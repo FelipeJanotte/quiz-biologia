@@ -1,56 +1,76 @@
 {
-  "title": "Quiz - Animais",
-  "description": "Teste o seu conhecimento 🤔 referente aos Animais 🐨",
+  "title": "Quiz sobre Evolucionismo",
+  "description": "Teste seu conhecimento sobre Evolucionismo. Trabalho de Biologia - 2021 - Profª Claudia - Germano Timm",
   "favicon": "",
-  "preview_site": "",
-  "url_site": "",
-  "bg": "",
-  "bg_mobile": "",
+  "url_site": "https://aluraquiz-copadomundo.antonionarcilio.vercel.app",
+  "bg": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   "questions": [
     {
-      "image": "",
-      "title": "",
-      "description": "",
+      "image": "https://www.petlove.com.br/dicas/wp-content/uploads/2017/09/gifs-de-cachorro-mais-engra%C3%A7ados-8.gif",
+      "title": "Evolucionismo",
+      "description": "Quando falamos em evolução, referimo-nos às mudanças que os organismos sofrem através do tempo. Diversos pesquisadores tiveram ideias evolucionistas; outros, no entanto, acreditavam que organismos eram imutáveis. Todos os nomes abaixo se referem a evolucionistas, exceto:",
+      "answer": 3,
+      "alternatives": ["Lamarck", "Darwin", "Wallace", "Aristóteles"]
+    },
+    {
+      "image": "https://data.whicdn.com/images/270384128/original.gif",
+      "title": "Darwinismo",
+      "description": "De acordo com a teoria proposta por Darwin, humanos e outros organismos vivos, como a baleia, apresentam certo grau de parentesco. Isso ocorre porque todos os organismos:",
       "answer": 1,
-      "alternatives": []
+      "alternatives": [
+        "passaram por processos de seleção natural",
+        "possuem um ancestral comum",
+        "possuem a capacidade de hereditariedade",
+        "passaram por mutações direcionais"
+      ]
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/JJ4Xqbj66uYg3DzKfscyfxthFOhTIe8myT4jHyX5i-dbMKoCSiyooT4MSfQBckYqwb565RTcCwlKJKYlr9NPja7C9YOpJqamihOD4OAaeX7oYJKNQruB3B9OV4FSLtei7gts-UU",
+      "title": "Darwinismo",
+      "description": "A teoria da origem das espécies de Charles Darwin analisou:",
+      "answer": 0,
+      "alternatives": [
+        "a seleção natural",
+        "as mutações",
+        "o uso e desuso dos órgãos",
+        "a hereditariedade dos caracteres adquiridos"
+      ]
+    },
+    {
+      "image": "https://i.imgur.com/u1Dv6Ns.png",
+      "title": "Lamarckismo",
+      "description": "Qualquer alteração sofrida no corpo de um indivíduo durante sua vida pode ser transmitida aos seus descendentes. De acordo com essa afirmação, qual opção indica o nome dessa lei:",
+      "answer": 3,
+      "alternatives": [
+        "Lei do uso e desuso",
+        "Lei da seleção natural",
+        "Lei da seleção artificial",
+        "Lei da herança dos caracteres adquiridos"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/zlVf2eSgXIFFuTnEhz/200w.gif",
+      "title": "Evolucionismo",
+      "description": "\"O gafanhoto é verde porque vive na grama.\" \"O gafanhoto vive na grama porque é verde.\" De acordo com as afirmações indique, respectivamente, à quem pertencia essas ideias:",
+      "answer": 0,
+      "alternatives": [
+        "Lamarck e Darwin",
+        "Aristóteles e Darwin",
+        "Wallace e Lamarck",
+        "Darwin e Wallace"
+      ]
     }
   ],
   "theme": {
     "colors": {
-      "primary": "#116300",
-      "secondary": "#FEC310",
-      "disabled": "#7b7b7b",
-      "mainBg": "#482919",
+      "primary": "#51702d",
+      "secondary": "#3b4928",
+      "disabled": "#3b492891",
+      "mainBg": "#879a5d",
       "contrastText": "#FFFFFF",
       "wrong": "#F44336",
       "success": "#8BC34A"
     },
     "borderRadius": "4px"
-  },
-  "theme_halloween": {
-    "colors": {
-      "primary": "#ff4c00",
-      "secondary": "#4f00ff",
-      "mainBg": "#282A36",
-      "contrastText": "#FFFFFF",
-      "wrong": "#F44336",
-      "success": "#8BC34A"
-    },
-    "borderRadius": "4px"
-  },
-  "theme_world_cup": {
-    "colors": {
-      "primary": "#116300",
-      "secondary": "#FEC310",
-      "disabled": "#7b7b7b",
-      "mainBg": "#062301",
-      "contrastText": "#FFFFFF",
-      "wrong": "#F44336",
-      "success": "#8BC34A"
-    },
-    "borderRadius": "4px"
-  },
-  "others": {
-    "github": "https://github.com/AntonioNarcilio/aluraquiz-copadomundo"
   }
 }

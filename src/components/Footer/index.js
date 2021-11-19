@@ -7,7 +7,7 @@ const FooterWrapper = styled.footer`
   padding: 0px 12px;
   display: flex;
   align-items: center;
-  border-radius: 4px; 
+  border-radius: 4px;
   img {
     width: 58px;
     margin-right: 23px;
@@ -15,10 +15,10 @@ const FooterWrapper = styled.footer`
   a {
     color: white;
     text-decoration: none;
-    transition: .3s;
+    transition: 0.3s;
     &:hover,
     &:focus {
-      opacity: .5;
+      opacity: 0.5;
     }
     span {
       text-decoration: none;
@@ -30,17 +30,11 @@ export default function Footer(props) {
   return (
     // eslint-disable-next-line react/jsx-props-no-spreading
     <FooterWrapper {...props}>
-      <a href="https://www.alura.com.br/" title="Visitar Site">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
-      </a>
       <p>
-        Orgulhosamente criado durante
-        {' '}
-        a
-        {' '}
-        <a href="https://www.alura.com.br/" title="Visitar Site">
-          <span><b>Imersão React da Alura.</b></span>
-        </a>
+        Orgulhosamente criado pelos alunos do 302:{' '}
+        <span>
+          <b>Ana, Emmanuel, Felipe J., Gabriel, Julia e Sofia</b>
+        </span>
       </p>
     </FooterWrapper>
   );

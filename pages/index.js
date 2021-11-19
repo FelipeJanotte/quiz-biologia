@@ -3,7 +3,6 @@ import { useRouter } from 'next/router';
 import { motion } from 'framer-motion';
 
 import HeadPage from '../src/components/Head';
-import GitHubCorner from '../src/components/GitHubCorner';
 import QuizContainer from '../src/components/QuizContainer';
 import Widget from '../src/components/Widget';
 import Link from '../src/components/Link';
@@ -77,8 +76,6 @@ export default function Home() {
             animate="show"
           />
         </QuizContainer>
-
-        <GitHubCorner projectUrl={db.others.github} />
       </QuizBackground>
     </>
   );
