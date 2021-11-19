@@ -1,0 +1,56 @@
+{
+  "title": "Quiz - Animais",
+  "description": "Teste o seu conhecimento 🤔 referente aos Animais 🐨",
+  "favicon": "",
+  "preview_site": "",
+  "url_site": "",
+  "bg": "",
+  "bg_mobile": "",
+  "questions": [
+    {
+      "image": "",
+      "title": "",
+      "description": "",
+      "answer": 1,
+      "alternatives": []
+    }
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#116300",
+      "secondary": "#FEC310",
+      "disabled": "#7b7b7b",
+      "mainBg": "#482919",
+      "contrastText": "#FFFFFF",
+      "wrong": "#F44336",
+      "success": "#8BC34A"
+    },
+    "borderRadius": "4px"
+  },
+  "theme_halloween": {
+    "colors": {
+      "primary": "#ff4c00",
+      "secondary": "#4f00ff",
+      "mainBg": "#282A36",
+      "contrastText": "#FFFFFF",
+      "wrong": "#F44336",
+      "success": "#8BC34A"
+    },
+    "borderRadius": "4px"
+  },
+  "theme_world_cup": {
+    "colors": {
+      "primary": "#116300",
+      "secondary": "#FEC310",
+      "disabled": "#7b7b7b",
+      "mainBg": "#062301",
+      "contrastText": "#FFFFFF",
+      "wrong": "#F44336",
+      "success": "#8BC34A"
+    },
+    "borderRadius": "4px"
+  },
+  "others": {
+    "github": "https://github.com/AntonioNarcilio/aluraquiz-copadomundo"
+  }
+}
