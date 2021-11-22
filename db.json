@@ -1,6 +1,6 @@
 {
   "title": "Quiz sobre Evolucionismo",
-  "description": "Teste seu conhecimento sobre Evolucionismo. Trabalho de Biologia - 2021 - Profª Claudia - Germano Timm",
+  "description": "Teste seu conhecimento sobre Evolucionismo e Adaptação dos Animais. Trabalho de Biologia - 2021 - Profª Claudia - Germano Timm",
   "favicon": "https://i.imgur.com/ta6dGLm.png",
   "url_site": "https://quiz-biologia.vercel.app/",
   "bg": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "image": "https://lh3.googleusercontent.com/proxy/JJ4Xqbj66uYg3DzKfscyfxthFOhTIe8myT4jHyX5i-dbMKoCSiyooT4MSfQBckYqwb565RTcCwlKJKYlr9NPja7C9YOpJqamihOD4OAaeX7oYJKNQruB3B9OV4FSLtei7gts-UU",
+      "image": "https://evolucaoebio.files.wordpress.com/2009/08/darwin-v-god-cartoon-cjmadden_01.jpg",
       "title": "Darwinismo",
       "description": "A teoria da origem das espécies de Charles Darwin analisou:",
       "answer": 0,
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "image": "https://media2.giphy.com/media/zlVf2eSgXIFFuTnEhz/200w.gif",
+      "image": "https://i.pinimg.com/originals/dd/6a/43/dd6a43daf0ff334cf25e236575409498.gif",
       "title": "Evolucionismo",
       "description": "\"O gafanhoto é verde porque vive na grama.\" \"O gafanhoto vive na grama porque é verde.\" De acordo com as afirmações indique, respectivamente, à quem pertencia essas ideias:",
       "answer": 0,
@@ -58,6 +58,85 @@
         "Aristóteles e Darwin",
         "Wallace e Lamarck",
         "Darwin e Wallace"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/zlVf2eSgXIFFuTnEhz/200w.gif",
+      "title": "Arara Vermelha",
+      "description": "A alimentação da arara vermelha se baseia em sementes, frutas e nozes. Essa alimentação veio ao fato de: ",
+      "answer": 3,
+      "alternatives": [
+        "O seu estômago é pequeno por isso sua alimentação é pequena.",
+        "Seus pais ensinaram que é errado comer outros animais.",
+        "As suas patas  não possuem tanta força para carregar coisas maiores.",
+        "Pelo formato de seu bico."
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/JzQV.gif",
+      "title": "Piranha-vermelha",
+      "description": "As piranhas-vermelha, como outros animais marinhos, respiram embaixo da água. Elas conseguem fazer isso, pois ",
+      "answer": 2,
+      "alternatives": [
+        "são primas do aquaman.",
+        "procuram bolhas no mar para que possam retirar seu oxigênio.",
+        "possuem brânquias.",
+        "criaram uma poção mágica de respiração aquática."
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/4d/0b/10/4d0b10afa616e40046b37016696524c2.gif",
+      "title": "Tartaruga marinha",
+      "description": "Como antes visto, as piranhas-vermelhas possuem brânquias para respirar embaixo da água, já as tartarugas não possuem brânquias. Como elas fazem para ficar tanto tempo nadando?",
+      "answer": 0,
+      "alternatives": [
+        "Elas possuem organismo funciona lentamente, o coração bate devagar, que faz um uso do oxigênio mais eficiente.",
+        "Elas possuem uma espécie de uma bolsa de oxigênio dentro do casco.",
+        "Elas encontram bolhas de ar dentro do mar, mas quando não encontram retornam a superfície para respirar.",
+        "Elas sabem aonde fica a casa da Sandy de Bob Esponja e toda vez que precisam passam lá."
+      ]
+    },
+    {
+      "image": "https://i.imgur.com/RlJchvy.png",
+      "title": "Morcego",
+      "description": "As imagens acima representam o ancestral de um morcego e um morcego que vemos hoje em dia, respectivamente, com base nelas percebemos que",
+      "answer": 3,
+      "alternatives": [
+        "a alimentação dos morcegos é de frutas e de insetos.",
+        "o morcego ancestral era muito feio.",
+        "os morcegos são uma falha por serem mamíferos e poderem voar.",
+        "houve uma substituição dos membros dianteiros de patas para asas."
+      ]
+    },
+    {
+      "image": "https://humordido.net/wp-content/uploads/2015/10/bricando-com-golfinho.gif",
+      "title": "Baleia e golfinhos",
+      "description": "Golfinhos e baleias atuais são mamíferos completamente adaptados ao ambiente aquático. Eles não precisam, por exemplo, retornar à terra para executarem essas ações, diferentemente do que ocorre em outros grupos de mamíferos aquáticos. Seguindo esse lógica, como isso ocorreu?",
+      "answer": 2,
+      "alternatives": [
+        "Sempre foram aquáticos, o que ocorreu foi uma mudança nas características conforme o tempo.",
+        "Não era necessário uma adaptação esses animais já tinham o alimento necessário no ambiente aquático.",
+        "A origem dos primeiros cetáceos se deu a partir de animais completamente terrestres, assim ocorreu uma adaptação desses animais.",
+        "Entre os fatores que levaram a essa adequação, a anatomia que ajudasse no nado não é uma delas."
+      ]
+    },
+    {
+      "image": "https://super.abril.com.br/wp-content/uploads/2019/02/baleia_site.png?w=1024",
+      "title": "Baleia",
+      "description": "As primeiras baleias \"de barbatana\", ou seja, portando estruturas de retenção de pequenos organismos como alimento, em substituição a dentes, são conhecidas como: ",
+      "answer": 0,
+      "alternatives": ["Oligoceno Superior", "Eoceno", "Mioceno", "Plioceno"]
+    },
+    {
+      "image": "https://33.media.tumblr.com/d1ead8e7de8baab0b9f2c33f76fc44bf/tumblr_n8ihf8i3BP1s9ab4to1_400.gif",
+      "title": "Dinossauros",
+      "description": "Todos os animais aparentam ou têm parentesco com alguma linhagem de dinossauros. Sabendo disso ao falar sobre a evolução das aves, qual dessas é considerada como a primeira linhagem de aves na Terra? ",
+      "answer": 3,
+      "alternatives": [
+        "Tyrannosaurus",
+        "Achillobator",
+        "Agathaumas",
+        "Archaeopteryx"
       ]
     }
   ],
