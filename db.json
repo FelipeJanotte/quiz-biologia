@@ -122,10 +122,15 @@
     },
     {
       "image": "https://super.abril.com.br/wp-content/uploads/2019/02/baleia_site.png?w=1024",
-      "title": "Baleia",
-      "description": "As primeiras baleias \"de barbatana\", ou seja, portando estruturas de retenção de pequenos organismos como alimento, em substituição a dentes, são conhecidas como: ",
-      "answer": 0,
-      "alternatives": ["Oligoceno Superior", "Eoceno", "Mioceno", "Plioceno"]
+      "title": "Tubarão",
+      "description": "Novas formas de estudar os dentes de tubarão e novos fósseis de tubarão encontrados no deserto do Peru convenceram a maioria dos especialistas de que",
+      "answer": 1,
+      "alternatives": [
+        "os tubarões descendem de um megatubarão com megadentes.",
+        "eles evoluíram a partir de animais menores e com dentes lisos, aparentados aos tubarões mako.",
+        "urgiram através da diminuição de descendentes em comum, que já não tinham o que comer.",
+        "descenderam de um Dunkleosteus, espécie de peixe gigantesca e hostil."
+      ]
     },
     {
       "image": "https://33.media.tumblr.com/d1ead8e7de8baab0b9f2c33f76fc44bf/tumblr_n8ihf8i3BP1s9ab4to1_400.gif",
